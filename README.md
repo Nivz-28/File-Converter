@@ -1,7 +1,5 @@
 # File-Converter
 
-# Overview
-
 This project aims to provide a simple tool for converting PDF and Word documents into plain text files. By using this tool, users can extract the text content from various document formats, making it easier to work with the textual data.
 
 # Features
